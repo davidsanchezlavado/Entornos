@@ -97,6 +97,7 @@ public class EntornosFactorizar {
         } else if (tipoProducto.equals("Ropa") && categoriaProducto.equals("Mujer")) {
             return true;
         }
+        System.out.println("Hola");
         return false;
     }
 
